@@ -1,7 +1,15 @@
-3
-4
-4
+a = int(input())
+b = int(input())
+c = int(input())
 
-5
-3
-5
+# if a >= b:
+#     print(a)
+# else:
+#     print(b)
+
+# if a>b:
+#     print(a)
+# elif a<b:
+#     print(b)
+# else:
+#     print(a)
