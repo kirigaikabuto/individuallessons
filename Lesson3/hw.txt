@@ -73,3 +73,5 @@ hello
 ВЫВОД:
 1 нечетное
 
+
+https://metanit.com/python/tutorial/
